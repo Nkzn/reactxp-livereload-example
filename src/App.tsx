@@ -59,11 +59,15 @@ class App extends RX.Component<null, null> {
         animation.start();
     }
 
+    private getTitle(): String {
+        return "Hello, ReactXP!!!";
+    }
+
     render(): JSX.Element | null {
         return (
             <RX.View style={ styles.container }>
                 <RX.Animated.Text style={ [styles.helloWorld, this._animatedStyle] }>
-                    Hello World
+                    { this.getTitle() }
                 </RX.Animated.Text>
                 <RX.Text style={ styles.welcome }>
                     Welcome to ReactXP
