@@ -2,7 +2,8 @@
 
 This is reactxp example with web live reload.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-5VkI0dpHek" frameborder="0" allowfullscreen></iframe>
+[![ReactXP HelloWorld Live Reloading Demo - YouTube](https://img.youtube.com/vi/-5VkI0dpHek/0.jpg)](https://www.youtube.com/watch?v=-5VkI0dpHek)
+[ReactXP HelloWorld Live Reloading Demo - YouTube](https://www.youtube.com/watch?v=-5VkI0dpHek)
 
 ## Original
 
